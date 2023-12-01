@@ -1,0 +1,1 @@
+# sh--c-sh--c-curl--sL-https-nextdns.io-install-
